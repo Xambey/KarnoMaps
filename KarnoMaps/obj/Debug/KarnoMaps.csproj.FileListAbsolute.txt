@@ -1,9 +1,9 @@
 C:\Users\Andrey\Documents\GitHub\KarnoMaps\KarnoMaps\bin\Debug\KarnoMaps.exe.config
 C:\Users\Andrey\Documents\GitHub\KarnoMaps\KarnoMaps\bin\Debug\KarnoMaps.exe
 C:\Users\Andrey\Documents\GitHub\KarnoMaps\KarnoMaps\bin\Debug\KarnoMaps.pdb
-C:\Users\Andrey\Documents\GitHub\KarnoMaps\KarnoMaps\obj\Debug\KarnoMaps.csprojResolveAssemblyReference.cache
 C:\Users\Andrey\Documents\GitHub\KarnoMaps\KarnoMaps\obj\Debug\KarnoMaps.MainForm.resources
 C:\Users\Andrey\Documents\GitHub\KarnoMaps\KarnoMaps\obj\Debug\KarnoMaps.Properties.Resources.resources
 C:\Users\Andrey\Documents\GitHub\KarnoMaps\KarnoMaps\obj\Debug\KarnoMaps.csproj.GenerateResource.Cache
 C:\Users\Andrey\Documents\GitHub\KarnoMaps\KarnoMaps\obj\Debug\KarnoMaps.exe
 C:\Users\Andrey\Documents\GitHub\KarnoMaps\KarnoMaps\obj\Debug\KarnoMaps.pdb
+C:\Users\Andrey\Documents\GitHub\KarnoMaps\KarnoMaps\obj\Debug\KarnoMaps.csprojResolveAssemblyReference.cache
